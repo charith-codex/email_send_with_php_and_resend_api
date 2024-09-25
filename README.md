@@ -35,18 +35,14 @@ Follow these steps to set up the project locally:
     composer install
     ```
 
-3. Set up your environment variables  `.env` and filling in your Resend API key:
-
-    ```bash
-    composer require vlucas/phpdotenv
-    touch .env
-    ```
+3. Create `.env` and filling in your Resend API key:
 
 4. Update the `.env` file with your Resend API key:
 
     ```
     RESEND_API_KEY=your_resend_api_key
     ```
+5. Import database.sql to your mysql database
 
 ## Usage
 
