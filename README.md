@@ -25,8 +25,8 @@ Follow these steps to set up the project locally:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/charith-codex/email_send-php_and_rensend_api.git
-    cd email_send-php_and_rensend_api
+    git clone https://github.com/charith-codex/email_send_with_php_and_resend_api.git
+    cd email_send_with_php_and_resend_api
     ```
 
 2. Install dependencies using Composer:
